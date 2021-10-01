@@ -24,5 +24,10 @@ Live Demo: [HERE!](https://react-e-commerce-blabla-shop.netlify.app/)
 
 npm start
 
+# Pages
+## Homepage
+
+<img width="947" alt="Homepage-1" src="https://user-images.githubusercontent.com/83697951/135673427-44518249-987d-482d-9a82-9c15020cd49d.png">
+
 
 
