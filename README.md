@@ -23,3 +23,4 @@ Live Demo: [HERE!](https://react-e-commerce-blabla-shop.netlify.app/)
 ## Starting Front-End Servers
 
 > npm start
+# react-e-commerce
