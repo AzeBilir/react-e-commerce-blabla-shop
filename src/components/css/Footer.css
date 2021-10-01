@@ -1,0 +1,11 @@
+footer {
+  margin-top: 50px;
+  color: black;
+  background-color: #f3f3f7;
+  padding-top: 3em;
+  position: relative;
+  margin-bottom: 10px;
+  width: 100%;
+  height: 400px;
+  position: sticky;
+}
