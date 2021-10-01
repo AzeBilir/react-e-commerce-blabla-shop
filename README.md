@@ -2,8 +2,7 @@
 
 E-commerce project written in ReactJS. The product information comes from an API. When the page is refreshed and goes to different pages, the products are kept. In the application, there are 7 pages: home page, products, product details, about us, contact, login-registration and basket. On the cart page, users can view their products and edit the numbers or remove them from the cart. All cart operations run synchronously with the API.
 
-<!--
-Live Demo: [Create React App](https://github.com/facebook/create-react-app). -->
+Live Demo: [HERE!](https://react-e-commerce-blabla-shop.netlify.app/)
 
 ## Tecnologies I Used:
 
