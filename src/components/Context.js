@@ -115,6 +115,28 @@ export class DataProvider extends Component {
         colors: ["orange", "black", "crimson", "teal"],
         count: 1,
       },
+      {
+        _id: "11",
+        title: "Disney Statue",
+        src: "https://cdn.dsmcdn.com/mnresize/1200/1800/ty49/product/media/images/20210106/15/47808177/118490382/1/1_org_zoom.jpg",
+        description: "UI/UX designing, html css ",
+        content:
+          "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on.",
+        price: 17,
+        colors: ["orange", "black", "crimson", "teal"],
+        count: 1,
+      },
+      {
+        _id: "12",
+        title: "Disney Statue",
+        src: "https://cdn.dsmcdn.com/mnresize/1200/1800/ty36/product/media/images/20201218/8/39485808/58027930/1/1_org_zoom.jpg",
+        description: "UI/UX designing, html css ",
+        content:
+          "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on.",
+        price: 17,
+        colors: ["orange", "black", "crimson", "teal"],
+        count: 1,
+      },
     ],
     cart: [],
     total: 0,

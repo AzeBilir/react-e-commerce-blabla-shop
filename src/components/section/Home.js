@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import Products from "./Products";
-import Box from "@material-ui/core/Box";
+import Container from "@material-ui/core/Container";
 
 function Home(props) {
   return (
@@ -10,7 +10,10 @@ function Home(props) {
         <img
           src="https://cdnb.artstation.com/p/assets/images/images/028/685/761/medium/jessica-alves-anime-funkostore-banner-shenron-x.jpg?1595215368"
           fluid
-          style={{ height: "550px", width: "1263px" }}
+          style={{
+            width: "100%",
+            display: "flex",
+          }}
         />
       </Link>
 
