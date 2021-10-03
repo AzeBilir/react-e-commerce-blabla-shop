@@ -40,7 +40,7 @@ export class DataProvider extends Component {
       },
       {
         _id: "4",
-        title: "Ron Weasley Statue",
+        title: "Ron Statue",
         src: "https://cdn.dsmcdn.com/mnresize/1200/1800/ty139/product/media/images/20210702/14/106441812/196251607/1/1_org_zoom.jpg",
         description: "UI/UX designing, html css ",
         content:
@@ -73,7 +73,7 @@ export class DataProvider extends Component {
       },
       {
         _id: "7",
-        title: "Disney Statue",
+        title: "Harry Statue",
         src: "https://cdn.dsmcdn.com/mnresize/1200/1800/ty144/product/media/images/20210716/15/111288069/205143855/1/1_org_zoom.jpg",
         description: "UI/UX designing, html css ",
         content:
@@ -84,7 +84,7 @@ export class DataProvider extends Component {
       },
       {
         _id: "8",
-        title: "Disney Statue",
+        title: "Hermione Statue",
         src: "https://cdn.dsmcdn.com/mnresize/1200/1800/ty57/product/media/images/20210119/0/54994099/131691733/0/0_org_zoom.jpg",
         description: "UI/UX designing, html css ",
         content:
@@ -95,7 +95,7 @@ export class DataProvider extends Component {
       },
       {
         _id: "9",
-        title: "Disney Statue",
+        title: "Michael Statue",
         src: "https://cdn.dsmcdn.com/mnresize/1200/1800/ty111/product/media/images/20210511/10/87419124/173042956/1/1_org_zoom.jpg",
         description: "UI/UX designing, html css ",
         content:
@@ -106,7 +106,7 @@ export class DataProvider extends Component {
       },
       {
         _id: "10",
-        title: "Disney Statue",
+        title: "Joker Statue",
         src: "https://cdn.dsmcdn.com/mnresize/1200/1800/ty34/product/media/images/20201211/13/37546669/118452677/1/1_org_zoom.jpg",
         description: "UI/UX designing, html css ",
         content:
@@ -117,7 +117,7 @@ export class DataProvider extends Component {
       },
       {
         _id: "11",
-        title: "Disney Statue",
+        title: "Eleven Statue",
         src: "https://cdn.dsmcdn.com/mnresize/1200/1800/ty49/product/media/images/20210106/15/47808177/118490382/1/1_org_zoom.jpg",
         description: "UI/UX designing, html css ",
         content:
@@ -128,7 +128,7 @@ export class DataProvider extends Component {
       },
       {
         _id: "12",
-        title: "Disney Statue",
+        title: "Rachel Statue",
         src: "https://cdn.dsmcdn.com/mnresize/1200/1800/ty36/product/media/images/20201218/8/39485808/58027930/1/1_org_zoom.jpg",
         description: "UI/UX designing, html css ",
         content:
