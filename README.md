@@ -30,7 +30,7 @@ npm start
 
 ## Product Page
 <img width="944" alt="Product-1" src="https://user-images.githubusercontent.com/83697951/135673780-2a7a8ce2-bd5c-4b0d-b5dc-a22cc7bcd80e.png">
-<img width="940" alt="Product-2" src="https://user-images.githubusercontent.com/83697951/135673787-a820b84f-2e22-4f09-90e4-29675ec40ba2.png">
+
 
 ##  Cart Page
 
@@ -45,4 +45,4 @@ npm start
 <img width="944" alt="login-error" src="https://user-images.githubusercontent.com/83697951/135676506-e8b8cba1-c0bf-4de4-bdc4-10417c41dfbf.png">
 <img width="943" alt="login-success" src="https://user-images.githubusercontent.com/83697951/135673821-7f213cb0-45f7-4973-a0f4-1681fa395b04.png">
 
-# react-e-commerce-blabla-shop
+
