@@ -38,6 +38,7 @@ npm start
 <img width="945" alt="Cart-2" src="https://user-images.githubusercontent.com/83697951/135676283-ed20df58-eefa-4e1b-a413-ce172bf8f1e4.png">
 
 ## Contact Page
+<img width="957" alt="contact" src="https://user-images.githubusercontent.com/83697951/135841337-e28f4fd6-91b4-47b5-bc35-9a2574162db4.png">
 <img width="959" alt="contact-2" src="https://user-images.githubusercontent.com/83697951/135841242-3cf34808-fc16-4098-8831-aaf93444cfd6.png">
 ## Login Page
 <img width="944" alt="login-error" src="https://user-images.githubusercontent.com/83697951/135676506-e8b8cba1-c0bf-4de4-bdc4-10417c41dfbf.png">
