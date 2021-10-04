@@ -47,5 +47,6 @@ npm start
 
 ## Responsive Pages
 <img width="646" alt="responsive" src="https://user-images.githubusercontent.com/83697951/135842385-81814704-ccda-4560-b637-490a659d4ee5.png">
+<img width="646" alt="responsive-2" src="https://user-images.githubusercontent.com/83697951/135842594-36d3c2ca-e82f-4b8f-ad1f-f432fcddf595.png">
 
 
