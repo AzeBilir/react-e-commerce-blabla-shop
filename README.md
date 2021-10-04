@@ -35,7 +35,7 @@ npm start
 ##  Cart Page
 
 <img width="957" alt="cart" src="https://user-images.githubusercontent.com/83697951/135841978-b194897f-6d5f-496f-ac17-dfaa1be09293.png">
-<img width="945" alt="Cart-2" src="https://user-images.githubusercontent.com/83697951/135676283-ed20df58-eefa-4e1b-a413-ce172bf8f1e4.png">
+<img width="958" alt="cart-2" src="https://user-images.githubusercontent.com/83697951/135842134-b241135c-d7e0-4d6d-a3e3-3b3ef4c490b8.png">
 
 ## Contact Page
 <img width="957" alt="contact" src="https://user-images.githubusercontent.com/83697951/135841337-e28f4fd6-91b4-47b5-bc35-9a2574162db4.png">
