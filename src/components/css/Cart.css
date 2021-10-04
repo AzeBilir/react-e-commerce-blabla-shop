@@ -15,8 +15,8 @@ section .cart {
   cursor: pointer;
 }
 .delete {
-  position: static;
-  top: 100px;
+  position: absolute;
+
   right: 30px;
   color: crimson;
   cursor: pointer;

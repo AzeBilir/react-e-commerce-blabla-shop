@@ -24,9 +24,10 @@ nav ul li a {
   padding: 0 15px;
 }
 nav ul li a:hover {
-  color: lightseagreen;
+  color: #efd923;
 }
 nav .nav-cart {
+  top: 16px;
   cursor: pointer;
   position: relative;
 }
