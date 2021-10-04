@@ -29,7 +29,7 @@ npm start
 <img width="960" alt="homepage" src="https://user-images.githubusercontent.com/83697951/135840689-f1547380-2757-40e7-ad26-7c5d5b4b4df7.png">
 
 ## Product Page
-<img width="944" alt="Product-1" src="https://user-images.githubusercontent.com/83697951/135673780-2a7a8ce2-bd5c-4b0d-b5dc-a22cc7bcd80e.png">
+<img width="960" alt="product" src="https://user-images.githubusercontent.com/83697951/135840857-a7c86552-5060-4444-8cef-392a37375983.png">
 
 
 ##  Cart Page
