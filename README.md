@@ -26,7 +26,7 @@ npm start
 
 # Pages
 ## Homepage
-<img width="947" alt="Homepage-1" src="https://user-images.githubusercontent.com/83697951/135673427-44518249-987d-482d-9a82-9c15020cd49d.png">
+<img width="960" alt="homepage" src="https://user-images.githubusercontent.com/83697951/135840689-f1547380-2757-40e7-ad26-7c5d5b4b4df7.png">
 
 ## Product Page
 <img width="944" alt="Product-1" src="https://user-images.githubusercontent.com/83697951/135673780-2a7a8ce2-bd5c-4b0d-b5dc-a22cc7bcd80e.png">
