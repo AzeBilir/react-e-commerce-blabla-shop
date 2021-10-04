@@ -45,4 +45,7 @@ npm start
 <img width="960" alt="login" src="https://user-images.githubusercontent.com/83697951/135841551-2f84c33d-403d-4ebe-a100-807c77ae483e.png">
 <img width="959" alt="login-2" src="https://user-images.githubusercontent.com/83697951/135841744-6d18d69a-3f73-4246-8800-a076edb25b62.png">
 
+## Responsive Pages
+<img width="646" alt="responsive" src="https://user-images.githubusercontent.com/83697951/135842385-81814704-ccda-4560-b637-490a659d4ee5.png">
+
 
